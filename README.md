@@ -22,3 +22,7 @@ un sistema local de archivos.
 
 ## How To Contribute
 Sample website with plenty of files for demos
+
+## Copytight
+
+2023 Git.Training
