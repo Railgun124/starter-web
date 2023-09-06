@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Juan Graxiola> -- <juangraxiolaqu.ittepic.edu.mx> 
 
 # THANKS
 
