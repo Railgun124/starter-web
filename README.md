@@ -21,7 +21,8 @@ puede ser usado en cualquier servidor web o incluso en
 un sistema local de archivos.
 
 ## How To Contribute
-Sample website with plenty of files for demos
+
+Por favor fork this repository and then issue Pull Request for review
 
 ## Copytight
 
