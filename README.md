@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 Este es una muestra de proyecto de un sitio web sencillo para
-mostrar como usar Git y Githhub juntos. Añdiendo una line para ejemplo
+mostrar como usar Git y Githhub juntos. Añdiendo una line para ejemplo,
+mas cambios para myfeature changes
 
 ## Introduccion
 
